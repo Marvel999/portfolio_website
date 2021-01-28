@@ -1386,6 +1386,29 @@ h2.title::before {
     margin: auto;
 } */
 
+
+
+.buy_Now{
+    border: 2px solid blue;
+    padding: 14px 30px;
+    margin-left: 45%;
+    margin-top: 20px;
+    border-radius: 10px;
+    background: blue;
+    color: white;
+}
+
+
+.buy_Now:hover{
+    border: 2px solid blue;
+    padding: 14px 30px;
+    margin-left: 45%;
+    margin-top: 20px;
+    border-radius: 10px;
+    background: white;
+    color: blue;
+}
+
 /*Footer Section*/
 
 footer {
@@ -1688,5 +1711,6 @@ footer .footer-content .box p {
     }
     footer .footer-content .box {
         width: 100%;
+        
     }
 }
